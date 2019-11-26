@@ -9,7 +9,7 @@ public class Main
         {
           java.util.Scanner tc = new java.util.Scanner(System.in);
 
-	        Main a = new Main();
+	  Main a = new Main();
           Main b = new Main();
         
           a.x = tc.nextDouble();
