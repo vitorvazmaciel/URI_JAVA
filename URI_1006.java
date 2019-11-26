@@ -4,7 +4,7 @@ public class URI_1006
 	{
         java.util.Scanner tc = new java.util.Scanner(System.in);
 
-        double a = tc.nextDouble();
+            double a = tc.nextDouble();
 	    double b = tc.nextDouble();
 	    double c = tc.nextDouble();
 	
