@@ -1,3 +1,8 @@
+/**
+ *
+ * @author vitorvazmaciel
+ */
+
 public class URI_1005.java
 {
 	public static void main(String [] args)
