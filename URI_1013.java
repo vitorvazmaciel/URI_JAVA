@@ -7,7 +7,7 @@ public class URI_1013
 {
 	public static void main(String [] args)
 	{
-    java.util.Scanner tc = new java.util.Scanner(System.in);
+    	java.util.Scanner tc = new java.util.Scanner(System.in);
 
 	int a = tc.nextInt();
 	int b = tc.nextInt();
@@ -25,7 +25,7 @@ public class URI_1013
 		}
 	}
 	
-    System.out.println(maior+" eh o maior");
+    	System.out.println(maior+" eh o maior");
    
  	}
 }
