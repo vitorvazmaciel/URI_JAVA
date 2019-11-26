@@ -2,11 +2,11 @@ public class URI_1002
 {
     public static void main(String [] args)
     {
-    java.util.Scanner tc = new java.util.Scanner(System.in);
+        java.util.Scanner tc = new java.util.Scanner(System.in);
    
-    double raio = tc.nextDouble();
+        double raio = tc.nextDouble();
 
-    System.out.printf("A=%2.4f\n",circ(raio));
+        System.out.printf("A=%2.4f\n",circ(raio));
     }
     
     static double circ(double c)
