@@ -5,7 +5,7 @@
 
 public class URI_1010{
 	
-    public static void main(String args[])
+    public static void main(String [] args)
     {
         java.util.Scanner tc = new java.util.Scanner(System.in);
         
