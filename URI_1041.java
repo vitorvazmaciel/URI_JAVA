@@ -30,7 +30,8 @@ public class URI_1041
 		}else if(x < 0 && y < 0)
 		{
 			System.out.println("Q3");
-		}else{
+		}else
+		{
 			System.out.println("Q4");
 		}
 	}
