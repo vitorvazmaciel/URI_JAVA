@@ -13,7 +13,7 @@ public class URI_1020
     int anos, meses, dias;
   
     anos = (int)anostotal / 365;
-	  meses = (int)(anostotal % 365) / 30;
+    meses = (int)(anostotal % 365) / 30;
     dias = (int)(anostotal % 365) % 30;
 
     System.out.println(anos+" ano(s)");	
