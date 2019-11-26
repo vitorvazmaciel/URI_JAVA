@@ -1,10 +1,10 @@
 public class Main
 {
-	public static void main(String [] args)
-	{
-      java.util.Scanner tc = new java.util.Scanner(System.in);
+      public static void main(String [] args)
+      {
+      	    java.util.Scanner tc = new java.util.Scanner(System.in);
 
-      int a = tc.nextInt();
+            int a = tc.nextInt();
 	    int b = tc.nextInt();
 	    int c = tc.nextInt();
 	    int d = tc.nextInt();
