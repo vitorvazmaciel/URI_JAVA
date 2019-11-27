@@ -3,7 +3,7 @@
  * @author vitorvazmaciel
  */
 
-public class Main 
+public class URI_1046
 {
 
     public static void main(String [] args) 
