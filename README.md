@@ -1,3 +1,3 @@
 # URI_JAVA
-Resoluções do URI em JAVA.
+Resoluções de alguns exercícios simples do URI em JAVA.
 
